@@ -1,6 +1,9 @@
-import React from 'react'
+import React, { useContext } from 'react'
+
 
 const Navbar = () => {
+
+
     return(
         <nav>
             <h1>Context App</h1>
